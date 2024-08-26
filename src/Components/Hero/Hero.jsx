@@ -7,8 +7,8 @@ const Hero = () => {
   return (
     <div id = 'home' className='hero'>
         <img className='profile' src={profile} alt="profile pic" />
-        <h1><span>I'm Niranjan P Shaji,</span> Python Devloper</h1>
-        <p>Proficient in Python and C. Skilled in web design using Figma, with hands-on experience in diverse
+        <h1><span>I'm Niranjan P Shaji,</span> <br />Python Developer</h1>
+        <p>Innovative coder committed to transforming ideas into impactful solutions, one line of code at a time.
 projects.</p>
         <div className="hero-action">
             <div className="hero-connect"><AnchorLink className='anchor-link' offset = {50} href='#contact' >Connect with me</AnchorLink></div>
