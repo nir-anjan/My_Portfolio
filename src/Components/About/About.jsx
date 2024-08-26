@@ -48,6 +48,7 @@ const About = () => {
             <h1>90+</h1>
             <p>PROJECTS COOMPLETED</p>
         </div>  
+        <hr />
         <div className="about-achivement">
             <h1>50+</h1>
             <p>HAPPY CLIENTS</p>
